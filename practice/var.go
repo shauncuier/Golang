@@ -14,5 +14,5 @@ var age = 24
 
 
 fmt.Println(title, firstName, lastName)
-fmt.Println("He is", age, "years old")
+fmt.Println("He is", age, "years old.")
 }
