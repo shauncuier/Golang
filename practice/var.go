@@ -1,12 +1,18 @@
+// Variable 
+
 package main
 
 import "fmt"
 
 func main() {
 
-var name string = "Test"
-var age int8 =24
+var title = "Mr"
+var firstName = "Jone"
+var lastName = "Doy"
 
-var c rune = 'a'
-    fmt.Println(name, age, c)
+var age = 24
+
+
+fmt.Println(title, firstName, lastName)
+fmt.Println("He is", age, "years old")
 }
