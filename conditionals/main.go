@@ -15,7 +15,7 @@ func main() {
 	}
 
 	// else if
-	
+
 	color := "blue"
 
 	if color == "red" {
@@ -35,6 +35,7 @@ func main() {
 	default:
 		fmt.Println("Color is not Red or Blue")
 	}
+	
 }
 
 
