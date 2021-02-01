@@ -19,7 +19,7 @@ func main() {
 
 	// FizzBuzz
 
-	for i := 1; i <=100; i++{
+	for i := 1; i <=45; i++{
 		if i % 15 == 0 {
 			fmt.Println("FizzBuzz")
 		}else if i % 3 == 0{

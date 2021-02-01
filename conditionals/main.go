@@ -6,7 +6,6 @@ func main() {
 	x:= 17
 	y:= 15
 
-
 	//  If else
 
 	if (x < y) {
@@ -16,13 +15,14 @@ func main() {
 	}
 
 	// else if
-	color := "red"
+	
+	color := "blue"
 
 	if color == "red" {
 		fmt.Println("Color is Red")
 	} else if color =="blue" {
 		fmt.Println("Color is Blue")
-	}else {
+	} else {
 		fmt.Println("Color is not Red or Blue")
 	}
 
