@@ -17,3 +17,13 @@ func main ()  {
 	// Reverse
 	fmt.Println(strutil.Reverse("dlroW olleH"))
 }
+
+
+/*
+# Output
+
+2
+3
+5
+Hello World
+*/
